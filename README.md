@@ -12,5 +12,6 @@ Share a URL (from any other app) to Get Media!. It'll hit a [youtube-dl-api-serv
 
 # Supported sites
 Everything [supported by youtube-dl](https://rg3.github.io/youtube-dl/supportedsites.html)
+
 ## Youtube support
-To get this approved on the play store, youtube downloads are disabled by default. To (re)enable support for youtube, open the app, overflow menu and hit about. Repeat this procedure a further 4 times. Now Youtube links work (note: private links still won't work)
+|**To get this approved on the play store, youtube downloads are disabled by default. To (re)enable support |for youtube, open the app, overflow menu and hit about. Repeat this procedure a further 4 times. Now Youtube |links work (note: private links still won't work)**
